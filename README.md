@@ -1,8 +1,8 @@
-interface used-google colab
-used libraries pandas,numpy,matplotlib,seaborn
-explores the dataset (used-titanic csv file)
-missing values were appropriatedusing numpy and sklearn.impute
-label encoding for ordinal data with pandas and sklearn
-improved perfomance for ml models using standardization
-outlier removed and visualization (seaborn)
-iqr method adopted
+Interface used-google colab.
+Used libraries pandas,numpy,matplotlib,seaborn.
+Explored the dataset (used-titanic csv file).
+Missing values were appropriated using numpy and sklearn.impute.
+Label encoding for ordinal data with pandas and sklearn.
+Improved perfomance for ml models using standardization.
+Outlier removed and visualization (seaborn).
+iqr method adopted.
